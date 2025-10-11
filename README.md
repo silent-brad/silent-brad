@@ -1,5 +1,5 @@
 ## Brad White
-> I'm a full-stack programmer from Richmond, VA. *I craft eloquent and efficient apps on the wild web and strive to quench my insatiable thirst for learning.*
+I'm a full-stack programmer from Richmond, VA. *I craft eloquent and efficient apps on the wild web and strive to quench my insatiable thirst for learning.*
 
 You can reach me at my_first_name (at) knightoffaith dot systems
 
@@ -15,4 +15,4 @@ You can reach me at my_first_name (at) knightoffaith dot systems
 <code><img width="30" height="30" src="https://api.iconify.design/logos:bash-icon.svg"></code>&nbsp;
 <code><img width="30" height="30" src="https://api.iconify.design/logos:vim.svg"></code>&nbsp;
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=silent-brad)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=silent-brad&layout=compact&theme=tokyonight)
