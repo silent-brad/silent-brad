@@ -4,10 +4,12 @@ I'm a full-stack programmer from Richmond, VA. *I craft eloquent and efficient a
 You can reach me at my_first_name (at) knightoffaith dot systems
 
 <code><img width="40" height="40" src="https://api.iconify.design/logos:go.svg"></code>&nbsp;
+<code><img width="30" height="30" src="https://api.iconify.design/devicon:ocaml.svg"></code>&nbsp;
+<code><img width="30" height="30" src="https://api.iconify.design/devicon:java.svg"></code>&nbsp;
 <code><img width="30" height="30" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
 <code><img width="30" height="30" src="https://api.iconify.design/devicon:html5.svg"></code>&nbsp;
 <code><img width="30" height="30" src="https://api.iconify.design/devicon:css3.svg"></code>&nbsp;
-<code><img width="30" height="30" src="https://api.iconify.design/devicon:nim.svg"></code>&nbsp;
+<code><img width="30" height="30" src="https://api.iconify.design/devicon:lua.svg"></code>&nbsp;
 <code><img width="30" height="30" src="https://api.iconify.design/vscode-icons:file-type-sqlite.svg"></code>&nbsp;
 <code><img width="40" height="40" src="https://api.iconify.design/logos:tailwindcss-icon.svg"></code>&nbsp;
 <code><img width="30" height="30" src="https://api.iconify.design/logos:angular-icon.svg"></code>&nbsp;
@@ -18,3 +20,5 @@ You can reach me at my_first_name (at) knightoffaith dot systems
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=silent-brad&layout=compact&theme=tokyonight)-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=silent-brad&theme=tokyonight&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
+
+![Github Stats](https://stats.hyo.dev/api/github-stats-advanced?login=silent-brad)
