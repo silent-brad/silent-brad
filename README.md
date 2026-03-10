@@ -15,4 +15,6 @@ You can reach me at my_first_name (at) knightoffaith dot systems
 <code><img width="30" height="30" src="https://api.iconify.design/logos:bash-icon.svg"></code>&nbsp;
 <code><img width="30" height="30" src="https://api.iconify.design/logos:vim.svg"></code>&nbsp;
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=silent-brad&layout=compact&theme=tokyonight)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=silent-brad&layout=compact&theme=tokyonight)-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=silent-brad&theme=tokyonight&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
